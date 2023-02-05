@@ -1,0 +1,4 @@
+Watch component (useLocation)
+AuthContext (localStorage) => Ok
+Product component (useLocation) => Ok
+List component (useLocation) => Ok
